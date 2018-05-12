@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37855'
     url: http://www.gutenberg.org/2009/agents/37855
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35719#The-History-of-the-Five-Indian-Nations-of-CanadaPart-I-Part-II
 gutenberg_issued: '2011-03-30'
 gutenberg_type: Text
 identifiers:
